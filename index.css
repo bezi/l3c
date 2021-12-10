@@ -1,3 +1,33 @@
 body {
-  background: #dfdfdf;
+  background: #efefef;
+  font-family: "Readex Pro", sans-serif;
+  max-width: 500px;
+  margin: 40px auto;
+  text-align: center;
+  line-height: 1.7;
+}
+
+img {
+  width: 250px;
+}
+
+a,
+a:visited,
+.heart {
+  color: #ff5148;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  text-align: left;
+}
+
+li {
+  margin-bottom: 12px;
+}
+
+li.q {
+  font-weight: bold;
+  margin-bottom: 0px;
 }
